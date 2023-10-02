@@ -1,0 +1,15 @@
+U:\CIS5012\Alarm501\bin\Debug\Alarm501.exe.config
+U:\CIS5012\Alarm501\bin\Debug\Alarm501.exe
+U:\CIS5012\Alarm501\bin\Debug\Alarm501.pdb
+U:\CIS5012\Alarm501\obj\Debug\Alarm501.csproj.AssemblyReference.cache
+U:\CIS5012\Alarm501\obj\Debug\Alarm501.AddEditAlarm.resources
+U:\CIS5012\Alarm501\obj\Debug\Alarm501.Alarm501.resources
+U:\CIS5012\Alarm501\obj\Debug\Alarm501.Properties.Resources.resources
+U:\CIS5012\Alarm501\obj\Debug\Alarm501.csproj.GenerateResource.cache
+U:\CIS5012\Alarm501\obj\Debug\Alarm501.csproj.CoreCompileInputs.cache
+U:\CIS5012\Alarm501\obj\Debug\Alarm501.exe
+U:\CIS5012\Alarm501\obj\Debug\Alarm501.pdb
+U:\CIS5012\Alarm501\bin\Debug\Newtonsoft.Json.dll
+U:\CIS5012\Alarm501\bin\Debug\Newtonsoft.Json.xml
+U:\CIS5012\Alarm501\obj\Debug\Alarm501.csproj.CopyComplete
+U:\CIS5012\Alarm501\obj\Debug\Alarm501.SnoozeForm.resources
